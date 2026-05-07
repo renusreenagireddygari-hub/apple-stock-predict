@@ -4,3 +4,5 @@ numpy
 yfinance
 matplotlib
 openpyxl
+load_model                          
+MinMaxScaler 
